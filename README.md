@@ -1,0 +1,2 @@
+# SOSOCoreWars
+SOSOCoreWarsPlugin
